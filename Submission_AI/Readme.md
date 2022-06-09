@@ -20,6 +20,9 @@ We created this folder for the final submission
         - images and csv are known or stored in folder CV on github
 - NLP
     - the jupyter Notebook and the Model
+    - comparison table
+        - ![comparison table](./NLP/comparison_nlp.png "Comparison NLP")
+
 - Presentations
     - all presentations
 
